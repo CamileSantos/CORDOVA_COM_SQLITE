@@ -1,1 +1,1 @@
-# CORDOVA_COM_SQLITE
+# projetocordovacomsqlite

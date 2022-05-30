@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(100deg, rgb(224, 224, 224), rgb(27, 27, 27));
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+}
+
+#btnInsere{
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: 'sans-serif';
+    border-color: black;
+}
+#btnLista{
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: 'sans-serif';
+    border-color: black;
+}
+
+input{
+    width: 20%;
+}
